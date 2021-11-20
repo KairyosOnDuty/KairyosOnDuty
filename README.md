@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KairyosOnDuty
 - 👀 I’m interested in Website and Game Development
-- 🌱 I’m currently learning HTML,CSS,JAVA
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 - 📫 How to reach me https://steamcommunity.com/id/kairyosss/
 
 <!---
